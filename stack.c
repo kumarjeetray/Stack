@@ -1,4 +1,4 @@
-/*#include<stdio.h>
+/* To impliment stack using array #include<stdio.h>
 #include<stdlib.h>
 int num[100],choice,top,c;
 void push();
