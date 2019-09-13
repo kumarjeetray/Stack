@@ -5,6 +5,7 @@ int num[100],choice,top,c;
 void push();
 void pop();
 void display();
+
 void main()
 {
                   c=1;
